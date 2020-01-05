@@ -126,6 +126,12 @@ Feature Toggles
 
 [https://github.com/shawndeggans/FeatureToggleTest](https://github.com/shawndeggans/FeatureToggleTest)
 
+
+**Howler.Blazor**
+A Blazor JSInterop wrapper for Howler.js[<sup>1</sup>](#1) which is a Javascript library that makes working with audio in JavaScript easy and reliable across all platforms.
+[NuGet Package](https://www.nuget.org/packages/Howler.Blazor) [Source](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Howler.Blazor)
+
+
 Other Libraries
 
 [https://github.com/kevinjpetersen/BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery)
@@ -173,3 +179,7 @@ Grapecity/Component One
 
 **Comparisons**
 [Feature Comparison List Between DevExpress and Telerik’s Blazor UI Components](http://blazorblog.siteauditor.net/2019/09/28/feature-comparison-list-between-devexpress-and-teleriks-blazor-ui-components/)
+
+
+# References
+<sup>1</sup> <a class="anchor" id="1">https://howlerjs.com</a> 
