@@ -35,94 +35,94 @@ Blazor is a framework for building interactive client-side web UI with .NET. You
 
 ## Libraries & Packages
 
-Blazor Internationalization(I18n) Text
+**Blazor Internationalization(I18n) Text**
 The class library that provides the ability to localize texts on your Blazor app!
 
 [https://www.nuget.org/packages/Toolbelt.Blazor.I18nText/](https://www.nuget.org/packages/Toolbelt.Blazor.I18nText/)
 
 [https://github.com/jsakamoto/Toolbelt.Blazor.I18nText](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText)
 
-Blazored LocalStorage
+**Blazored LocalStorage**
 A library to provide access to local storage in Blazor applications
 
 [https://github.com/blazored/LocalStorage](https://github.com/blazored/LocalStorage)
 
-Blazorise
+*Blazorise*
 Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material.
 
 [https://github.com/stsrki/Blazorise](https://github.com/stsrki/Blazorise)
 
-BlazorStyled
+**BlazorStyled**
 BlazorStyled is a library designed for writing CSS styles directly in a Blazor component.
 
 [https://blazorstyled.io/](https://blazorstyled.io/)
 
-BlazorTypography
+**BlazorTypography**
 A powerful toolkit for building websites with beautiful design. A port of Typography.js to the Blazor Framework
 
 [https://chanan.github.io/BlazorTypography/](https://chanan.github.io/BlazorTypography/)
 
-Blazor Pretty Code
+**Blazor Pretty Code**
  component meant to be used by other component creator to show code snippets on their documentation page.
 
 [https://github.com/chanan/BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode)
 
-BlazorValidation
+**BlazorValidation**
 Blazor-Validation is a validation agnostic library for validating forms in Blazor
 
 [https://github.com/mrpmorris/blazor-validation](https://github.com/mrpmorris/blazor-validation)
 
-BlazorStrap
+**BlazorStrap**
 Bootstrap 4 Components for Blazor Framework
 
 [https://github.com/chanan/BlazorStrap](https://github.com/chanan/BlazorStrap)
 
 [https://mikaberglund.com/2019/11/04/blazor-components-for-bootstrap/](https://mikaberglund.com/2019/11/04/blazor-components-for-bootstrap/)
 
-MatBlazor
+**MatBlazor**
 Material Design components for Blazor and Razor Components
 
 [https://github.com/SamProf/MatBlazor](https://github.com/SamProf/MatBlazor)
 
-BlazorFileReader
+**BlazorFileReader**
 Blazor library exposing read-only file streams in Blazor.
 
 [https://github.com/tewr/BlazorFileReader](https://github.com/tewr/BlazorFileReader)
 
-Blazor-State
+**Blazor-State**
 
 [https://timewarpengineering.github.io/blazor-state/](https://timewarpengineering.github.io/blazor-state/)
 
-Blazor.Auth0
+**Blazor.Auth0**
 A library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login for Blazor
 
 [https://github.com/henalbrod/Blazor.Auth0](https://github.com/henalbrod/Blazor.Auth0)
 
-Blazly
+**Blazly**
 A .NET Core 3.0 Razor Components Library for Plotly.js
 
 [https://github.com/lqdev/Blazly](https://github.com/lqdev/Blazly)
 
-Blazored Typeahead
+**Blazored Typeahead**
 Typeahead control for Blazor applications.
 
 [https://github.com/Blazored/Typeahead](https://github.com/Blazored/Typeahead)
 
-Blazor.Animate
+**Blazor.Animate**
 Easily add Animations into your Blazor Applications
 
 [https://mikaelkoskinen.net/post/blazor-animate-animation-component-for-blazor](https://mikaelkoskinen.net/post/blazor-animate-animation-component-for-blazor)
 
-ChartJs.Blazor
+**ChartJs.Blazor**
 A library to use ChartJs interop with Blazor
 
 [https://github.com/mariusmuntean/ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor)
 
-Blazor Components Testing Library
+**Blazor Components Testing Library**
 
 [https://github.com/egil/razor-components-testing-library](https://github.com/egil/razor-components-testing-library)
 
-Feature Toggles
+**Feature Toggles**
 
 [https://github.com/shawndeggans/FeatureToggleTest](https://github.com/shawndeggans/FeatureToggleTest)
 
@@ -138,11 +138,11 @@ Other Libraries
 
 [https://github.com/jss-blazor/jss-blazor](https://github.com/jss-blazor/jss-blazor)
 
-Blazor Components
+**Blazor Components**
 
 [https://github.com/abivelj/blazor-components](https://github.com/abivelj/blazor-components)
 
-Web Switch
+**Web Switch**
 
 [https://github.com/abivelj/web-switch](https://github.com/abivelj/web-switch)
 
