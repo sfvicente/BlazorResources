@@ -36,115 +36,90 @@ Blazor is a framework for building interactive client-side web UI with .NET. You
 ## Libraries & Packages
 
 **Blazor Internationalization(I18n) Text**
-The class library that provides the ability to localize texts on your Blazor app!
-
-[https://www.nuget.org/packages/Toolbelt.Blazor.I18nText/](https://www.nuget.org/packages/Toolbelt.Blazor.I18nText/)
-
-[https://github.com/jsakamoto/Toolbelt.Blazor.I18nText](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText)
+A class library to provide the ability to localize texts on Blazor applications
+[NuGet Package](https://www.nuget.org/packages/Toolbelt.Blazor.I18nText/) | [Source Code](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText)
 
 **Blazored LocalStorage**
-A library to provide access to local storage in Blazor applications
+A library to provide access to local storage in Blazor applications.
+[Source Code](https://github.com/blazored/LocalStorage)
 
-[https://github.com/blazored/LocalStorage](https://github.com/blazored/LocalStorage)
-
-*Blazorise*
+**Blazorise**
 Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material.
-
-[https://github.com/stsrki/Blazorise](https://github.com/stsrki/Blazorise)
+[Source Code](https://github.com/stsrki/Blazorise)
 
 **BlazorStyled**
-BlazorStyled is a library designed for writing CSS styles directly in a Blazor component.
-
-[https://blazorstyled.io/](https://blazorstyled.io/)
+Designed for writing CSS styles directly in a Blazor component.
+[Site](https://blazorstyled.io/) | [NuGet Package](https://www.nuget.org/packages/BlazorStyled/)
 
 **BlazorTypography**
 A powerful toolkit for building websites with beautiful design. A port of Typography.js to the Blazor Framework
-
-[https://chanan.github.io/BlazorTypography/](https://chanan.github.io/BlazorTypography/)
+[Source Code](https://chanan.github.io/BlazorTypography/)
 
 **Blazor Pretty Code**
  component meant to be used by other component creator to show code snippets on their documentation page.
-
-[https://github.com/chanan/BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode)
+[Source Code](https://github.com/chanan/BlazorPrettyCode)
 
 **BlazorValidation**
 Blazor-Validation is a validation agnostic library for validating forms in Blazor
-
-[https://github.com/mrpmorris/blazor-validation](https://github.com/mrpmorris/blazor-validation)
+[Source Code](https://github.com/mrpmorris/blazor-validation)
 
 **BlazorStrap**
-Bootstrap 4 Components for Blazor Framework
-
-[https://github.com/chanan/BlazorStrap](https://github.com/chanan/BlazorStrap)
-
-[https://mikaberglund.com/2019/11/04/blazor-components-for-bootstrap/](https://mikaberglund.com/2019/11/04/blazor-components-for-bootstrap/)
+Bootstrap 4 Components for Blazor Framework.
+[Source Code](https://github.com/chanan/BlazorStrap) | [Documentation](https://github.com/MikaBerglund/Blazor-Bootstrap/wiki)
 
 **MatBlazor**
 Material Design components for Blazor and Razor Components
-
-[https://github.com/SamProf/MatBlazor](https://github.com/SamProf/MatBlazor)
+[Source Code](https://github.com/SamProf/MatBlazor)
 
 **BlazorFileReader**
 Blazor library exposing read-only file streams in Blazor.
-
-[https://github.com/tewr/BlazorFileReader](https://github.com/tewr/BlazorFileReader)
+[Source Code](https://github.com/tewr/BlazorFileReader)
 
 **Blazor-State**
-
-[https://timewarpengineering.github.io/blazor-state/](https://timewarpengineering.github.io/blazor-state/)
+[NuGet Package](https://www.nuget.org/packages/Blazor-State/) | [Source Code](https://github.com/TimeWarpEngineering/blazor-state) | [Documentation](https://timewarpengineering.github.io/blazor-state/)
 
 **Blazor.Auth0**
 A library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login for Blazor
-
-[https://github.com/henalbrod/Blazor.Auth0](https://github.com/henalbrod/Blazor.Auth0)
+[Source Code](https://github.com/henalbrod/Blazor.Auth0)
 
 **Blazly**
 A .NET Core 3.0 Razor Components Library for Plotly.js
-
-[https://github.com/lqdev/Blazly](https://github.com/lqdev/Blazly)
+[Source Code](https://github.com/lqdev/Blazly)
 
 **Blazored Typeahead**
 Typeahead control for Blazor applications.
-
-[https://github.com/Blazored/Typeahead](https://github.com/Blazored/Typeahead)
+[Source Code](https://github.com/Blazored/Typeahead)
 
 **Blazor.Animate**
-Easily add Animations into your Blazor Applications
-
-[https://mikaelkoskinen.net/post/blazor-animate-animation-component-for-blazor](https://mikaelkoskinen.net/post/blazor-animate-animation-component-for-blazor)
+Easily add animations into your Blazor Applications.
+[Source Code](https://github.com/mikoskinen/Blazor.Animate)
 
 **ChartJs.Blazor**
 A library to use ChartJs interop with Blazor
-
-[https://github.com/mariusmuntean/ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor)
+[Source Code](https://github.com/mariusmuntean/ChartJs.Blazor)
 
 **Blazor Components Testing Library**
-
-[https://github.com/egil/razor-components-testing-library](https://github.com/egil/razor-components-testing-library)
-
-**Feature Toggles**
-
-[https://github.com/shawndeggans/FeatureToggleTest](https://github.com/shawndeggans/FeatureToggleTest)
-
+[Source Code](https://github.com/egil/razor-components-testing-library)
 
 **Howler.Blazor**
 A Blazor JSInterop wrapper for Howler.js[<sup>1</sup>](#1) which is a Javascript library that makes working with audio in JavaScript easy and reliable across all platforms.
-[NuGet Package](https://www.nuget.org/packages/Howler.Blazor) [Source](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Howler.Blazor)
+[NuGet Package](https://www.nuget.org/packages/Howler.Blazor) | [Source](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Howler.Blazor)
 
+**BlazorQuery**
+a Blazor Library that wraps jQuery completely in C# so that DOM Manipulation, Ajax, etc, can be done directly without leaving the comfort of C#.
+[Source Code](https://github.com/kevinjpetersen/BlazorQuery)
 
-Other Libraries
-
-[https://github.com/kevinjpetersen/BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery)
-
-[https://github.com/jss-blazor/jss-blazor](https://github.com/jss-blazor/jss-blazor)
+**JSS Blazor**
+A client SDK for [Sitecore JavaScript Services](https://jss.sitecore.com/) that enables you to build client web apps entirely in C# with Blazor WebAssembly.
+[Source Code](https://github.com/jss-blazor/jss-blazor)
 
 **Blazor Components**
-
-[https://github.com/abivelj/blazor-components](https://github.com/abivelj/blazor-components)
+Custom components for Blazor.
+[Source Code](https://github.com/abivelj/blazor-components)
 
 **Web Switch**
-
-[https://github.com/abivelj/web-switch](https://github.com/abivelj/web-switch)
+iOS style switch that works with Blazor.
+[Source Code](https://github.com/abivelj/web-switch)
 
 
 
