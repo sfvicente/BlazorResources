@@ -38,6 +38,9 @@ Blazor is a framework for building interactive client-side web UI with .NET. You
 - Remi Bourgarel | [https://twitter.com/rembou1](https://twitter.com/rembou1)
 - Ankit Sharma | [https://twitter.com/ankitsharma_007](https://twitter.com/ankitsharma_007)
 - ppedv AG | [https://twitter.com/ppedv](https://twitter.com/ppedv)
+- Dani Herrera | https://twitter.com/ctrl_alt_d
+- Chris Sainty | https://twitter.com/chris_sainty
+- Shahed Chowdhuri | https://twitter.com/shahedC
 
 
 
