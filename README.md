@@ -9,6 +9,10 @@ Blazor is a framework for building interactive client-side web UI with .NET. You
 - ASP.<span></span>NET Core Blazor | [https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - ASP.<span></span>NET Core Blazor Documentation | [https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1)
 
+- Samples
+	[Blazor Samples](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) | [Blazor Workshop](https://github.com/dotnet-presentations/blazor-workshop)
+
+
 ## Blogs
 
 
