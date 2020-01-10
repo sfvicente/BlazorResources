@@ -31,6 +31,7 @@ Blazor is a framework for building interactive client-side web UI with .NET. You
 
 ## People to Follow
 
+- .NET Team | https://twitter.com/dotnet
 - Michael Washington | [https://twitter.com/ADefWebserver](https://twitter.com/ADefWebserver)
 - Ed Charbeneau | [https://twitter.com/EdCharbeneau](https://twitter.com/EdCharbeneau)
 - Dmitry Pavlov | [https://twitter.com/dr_dimaka](https://twitter.com/dr_dimaka)
