@@ -31,17 +31,30 @@ Blazor is a framework for building interactive client-side web UI with .NET. You
 
 ## People to Follow
 
-- .NET Team | https://twitter.com/dotnet
+- .NET Team | [https://twitter.com/dotnet](https://twitter.com/dotnet)
+- Steve Sanderson | [https://twitter.com/stevensanderson](https://twitter.com/stevensanderson)
+- Denis Voituron | [https://twitter.com/denisvoituron](https://twitter.com/denisvoituron)
+- Chris Sainty | [https://twitter.com/chris_sainty](https://twitter.com/chris_sainty)
+- Sean Moran | [https://twitter.com/spmoran](https://twitter.com/spmoran)
+- Paul Schroeder | [https://twitter.com/PaulBSchroeder](https://twitter.com/PaulBSchroeder)
+- Beth Massi | [https://twitter.com/BethMassi](https://twitter.com/BethMassi)
+- Michael Crump | [https://twitter.com/mbcrump](https://twitter.com/mbcrump)
+- Claudio Bernasconi | [https://twitter.com/CHBernasconiC](https://twitter.com/CHBernasconiC)
+- Jeremy Sinclair | [https://twitter.com/sinclairinator](https://twitter.com/sinclairinator)
 - Michael Washington | [https://twitter.com/ADefWebserver](https://twitter.com/ADefWebserver)
+- Christophe Peugnet | [https://twitter.com/tossnet1](https://twitter.com/tossnet1)
 - Ed Charbeneau | [https://twitter.com/EdCharbeneau](https://twitter.com/EdCharbeneau)
+- Jeff Fritz | [https://twitter.com/csharpfritz](https://twitter.com/csharpfritz)
+- Henry Rodriguez | [https://twitter.com/henalbrod](https://twitter.com/henalbrod)
+- Scott Sauber | [https://twitter.com/scottsauber](https://twitter.com/scottsauber)
+- Ryan Nowak | [https://twitter.com/aVerySpicyBoi](https://twitter.com/aVerySpicyBoi)
 - Dmitry Pavlov | [https://twitter.com/dr_dimaka](https://twitter.com/dr_dimaka)
 - Eric Holland | [https://twitter.com/halcyonholland](https://twitter.com/halcyonholland)
 - Remi Bourgarel | [https://twitter.com/rembou1](https://twitter.com/rembou1)
 - Ankit Sharma | [https://twitter.com/ankitsharma_007](https://twitter.com/ankitsharma_007)
 - ppedv AG | [https://twitter.com/ppedv](https://twitter.com/ppedv)
-- Dani Herrera | https://twitter.com/ctrl_alt_d
-- Chris Sainty | https://twitter.com/chris_sainty
-- Shahed Chowdhuri | https://twitter.com/shahedC
+- Dani Herrera | [https://twitter.com/ctrl_alt_d](https://twitter.com/ctrl_alt_d)
+- Shahed Chowdhuri | [https://twitter.com/shahedC](https://twitter.com/shahedC)
 
 
 
